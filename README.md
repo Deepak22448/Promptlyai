@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PromptlyAI
 
-## Getting Started
+![PromptlyAI Preview](/public/promptly-icon.png)
 
-First, run the development server:
+Welcome to **PromptlyAI**, your intelligent assistant designed to help you with daily tasks, planning, cooking recipes, and understanding complex concepts. With a user-friendly interface and advanced AI capabilities, PromptlyAI is here to streamline your day-to-day activities and support you in a variety of ways.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Simply ask PromptlyAI for help—whether it's planning your schedule, finding a recipe, or breaking down challenging topics into simple explanations—and experience how it makes your life easier!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![PromptlyAI Preview](/public/promptly-readme-view.jpg)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎨 Tech Stack
+[![Tech Stack](https://skillicons.dev/icons?i=nextjs,typescript,tailwindcss,vercel)](https://skillicons.dev)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Next.js**: A React framework enabling seamless server-side rendering and optimized user experience.
+- **OpenAI's API**: For generating conversational responses and managing complex requests.
+- **Shadcn**: For accessible, customizable UI components.
+- **Tailwind CSS**: A utility-based CSS framework to streamline styling.
+- **Auth.js**: Handling secure authentication and user management.
+- **TypeScript**: For type-safe code and enhanced developer productivity.
+- **App Router**: Powers dynamic routing for fluid navigation across the app.
